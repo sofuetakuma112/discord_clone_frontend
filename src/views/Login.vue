@@ -72,10 +72,10 @@
         <img src="../assets/discord.jpg" alt="" />
         <div class="server-info">
           <h4>ユーザー名のみでログインできます</h4>
-          <p>
+          <!-- <p>
             ああ
           </p>
-          <router-link to="/discord">バックドア</router-link>
+          <router-link to="/discord">バックドア</router-link> -->
         </div>
       </div>
     </div>
