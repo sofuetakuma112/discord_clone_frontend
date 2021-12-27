@@ -71,7 +71,7 @@
       <div class="server-info-container">
         <img src="../assets/discord.jpg" alt="" />
         <div class="server-info">
-          <h4>ユーザー名のみでログインできます</h4>
+          <h4>匿名ログインはユーザー名のみでログインできます</h4>
           <!-- <p>
             ああ
           </p>
